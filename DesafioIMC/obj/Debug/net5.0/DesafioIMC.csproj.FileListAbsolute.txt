@@ -1,0 +1,16 @@
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.exe
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.deps.json
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.runtimeconfig.json
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.runtimeconfig.dev.json
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.dll
+D:\Projetos\C#\DesafioIMC\bin\Debug\net5.0\DesafioIMC.pdb
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.csproj.AssemblyReference.cache
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.AssemblyInfoInputs.cache
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.AssemblyInfo.cs
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.csproj.CoreCompileInputs.cache
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.dll
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\refint\DesafioIMC.dll
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.pdb
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\DesafioIMC.genruntimeconfig.cache
+D:\Projetos\C#\DesafioIMC\obj\Debug\net5.0\ref\DesafioIMC.dll
